@@ -22,10 +22,6 @@ Technical Certificate – Website Design & Development   Sept 2022 – March 202
 
 Saskatchewan Polytechnic
 
-Msc. Degree in Information Systems 				May 2016
-
-Linnaeus University, Växjö
-
 ## EXPERIENCES
 
 IT and administrative support
@@ -37,6 +33,7 @@ SK
 -	Perform data entry into a database.
 -	Provide IT support for LINC teachers and students.
 -	Provide administrative support to the organization’s program.
+
 
 
 
